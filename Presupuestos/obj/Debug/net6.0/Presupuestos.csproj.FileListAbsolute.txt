@@ -1,0 +1,129 @@
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\appsettings.json
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.staticwebassets.runtime.json
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.exe
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.deps.json
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.runtimeconfig.json
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.pdb
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.csproj.AssemblyReference.cache
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.AssemblyInfo.cs
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.RazorAssemblyInfo.cache
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.RazorAssemblyInfo.cs
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\scopedcss\bundle\Presupuestos.styles.css
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\scopedcss\projectbundle\Presupuestos.bundle.scp.css
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\refint\Presupuestos.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.pdb
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.genruntimeconfig.cache
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\ref\Presupuestos.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Dapper.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\juang\Desktop\WEB\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.csproj.CopyComplete
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\appsettings.json
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.staticwebassets.runtime.json
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.exe
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.deps.json
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.runtimeconfig.json
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Presupuestos.pdb
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Dapper.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.csproj.AssemblyReference.cache
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.AssemblyInfoInputs.cache
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.AssemblyInfo.cs
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.csproj.CoreCompileInputs.cache
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.RazorAssemblyInfo.cache
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.RazorAssemblyInfo.cs
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets\msbuild.Presupuestos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets\msbuild.build.Presupuestos.props
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presupuestos.props
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presupuestos.props
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\scopedcss\bundle\Presupuestos.styles.css
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\scopedcss\projectbundle\Presupuestos.bundle.scp.css
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.csproj.CopyComplete
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\refint\Presupuestos.dll
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.pdb
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\Presupuestos.genruntimeconfig.cache
+C:\Users\juang\Documents\Mis Documentos\Desarrollo\.NET\repos\UDEMY\Gavilan\MVC\Proyectos\Presupuestos\Presupuestos\obj\Debug\net6.0\ref\Presupuestos.dll

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<TipoCuenta>
+@{
+    ViewData["Title"] = "Tipos Cuenta";
+}
+
+<h1>Tipos Cuenta</h1>
+<h5>Por tipo de cuenta nos referimos a agrupar las cuentas por tipos.P.ej. Efectivo, Tarjeta de Crédito, etc</h5>
+<a asp-controller="TiposCuentas" asp-action="Crear" class="btn btn-primary mb-3">Nuevo</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+    </thead>
+
+    <tbody id="reordenable">
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Nombre
+                </td>
+                <td>
+                    <input type="hidden" value="@item.Id" class="ids"/>
+                    <a class="btn btn-primary" asp-action="Editar" asp-route-id="@item.Id">Editar</a>
+                    <a class="btn btn-danger" asp-action="Borrar" asp-route-id="@item.Id">Borrar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts{
+    <script>
+        const URL = '@Url.Action("OrdenarTabla")';
+        $(function(){
+            $("#reordenable").sortable({
+                stop: async function(e, ui){
+                   await actualizarOrdenes();
+                }
+            });
+
+            async function actualizarOrdenes(){
+                const ids = obtenerIds();
+                await enviarIdsBackend(ids);
+            }
+
+            function obtenerIds(){
+                const ids = $(".ids").map(function(){
+                    return $(this).val();
+                }).get();
+
+                return ids;
+            }
+
+            async function enviarIdsBackend(ids){
+                var data = JSON.stringify(ids);
+
+                await fetch (URL, {
+                    method: 'POST', 
+                    body: data,
+                    headers: {
+                        'Content-Type': 'application/json' 
+                    }
+                });
+;            }
+        });
+    </script>
+}
