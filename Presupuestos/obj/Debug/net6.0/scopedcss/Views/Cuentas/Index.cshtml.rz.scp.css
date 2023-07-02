@@ -1,0 +1,19 @@
+.accordion-cuentas button[b-qwnwx17xip] {
+    color: black !important;
+    font-size: 20px;
+}
+
+    .accordion-cuentas button > span[b-qwnwx17xip] {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+.accordion-cuentas ul > li[b-qwnwx17xip] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.accordion-cuentas .accordion-collapse[b-qwnwx17xip] {
+    font-size: 16px;
+}

@@ -1,3 +1,23 @@
+/* _content/Presupuestos/Views/Cuentas/Index.cshtml.rz.scp.css */
+.accordion-cuentas button[b-qwnwx17xip] {
+    color: black !important;
+    font-size: 20px;
+}
+
+    .accordion-cuentas button > span[b-qwnwx17xip] {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+.accordion-cuentas ul > li[b-qwnwx17xip] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.accordion-cuentas .accordion-collapse[b-qwnwx17xip] {
+    font-size: 16px;
+}
 /* _content/Presupuestos/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */

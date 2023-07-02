@@ -9,6 +9,7 @@ namespace Presupuestos.Servicios
         Task Crear(TipoCuenta tipoCuenta);
         Task<bool> Existe(string nombre, int usuarioId);
         Task<IEnumerable<TipoCuenta>> GetTiposCuenta(int usuarioId);
+        Task Ordenar(IEnumerable<TipoCuenta> tiposCuentas);
         Task TipoCuentaDelete(int id);
         Task<TipoCuenta> TipoCuentaGet(int Id, int UsuarioId);
         Task TipoCuentaUpdate(TipoCuenta tipoCuenta);
@@ -26,7 +27,7 @@ namespace Presupuestos.Servicios
         {
             using var connection = new SqlConnection(ConnectionString);
 
-            var id = await connection.QuerySingleAsync<int>($@"INSERT INTO TipoCuenta (Nombre, UsuarioId, Orden) VALUES (@Nombre, @UsuarioId, 0); SELECT SCOPE_IDENTITY();", tipoCuenta);
+            var id = await connection.QuerySingleAsync<int>("TiposCuentaInsertar", new { Nombre= tipoCuenta.Nombre, UsuarioId = tipoCuenta.UsuarioId }, commandType: System.Data.CommandType.StoredProcedure);
 
             tipoCuenta.Id = id;
         }
@@ -35,7 +36,7 @@ namespace Presupuestos.Servicios
         {
             using var connection = new SqlConnection(ConnectionString);
 
-            var existe = await connection.QueryFirstOrDefaultAsync<int>($@"SELECT 1 FROM TipoCuenta where Nombre=@nombre AND UsuarioId=@usuarioId", new{ nombre, usuarioId });
+            var existe = await connection.QueryFirstOrDefaultAsync<int>($@"SELECT 1 FROM TipoCuenta where Nombre=@nombre AND UsuarioId=@usuarioId", new { nombre, usuarioId });
 
             return existe == 1;
         }
@@ -44,7 +45,7 @@ namespace Presupuestos.Servicios
         {
             using var connection = new SqlConnection(ConnectionString);
 
-            IEnumerable<TipoCuenta> listaTiposCuentas = await connection.QueryAsync<TipoCuenta>($@"SELECT * FROM TipoCuenta WHERE UsuarioId = @usuarioId", new { usuarioId });
+            IEnumerable<TipoCuenta> listaTiposCuentas = await connection.QueryAsync<TipoCuenta>($@"SELECT * FROM TipoCuenta WHERE UsuarioId = @usuarioId ORDER BY Orden", new { usuarioId });
 
             return listaTiposCuentas;
         }
@@ -67,6 +68,13 @@ namespace Presupuestos.Servicios
         {
             using var connection = new SqlConnection(ConnectionString);
             await connection.ExecuteAsync($@"DELETE TIPOCUENTA WHERE ID = @id", new { id });
+        }
+
+        public async Task Ordenar(IEnumerable<TipoCuenta> tiposCuentas)
+        {
+            string query = "UPDATE TipoCuenta SET Orden = @orden where Id = @id;";
+            var connection = new SqlConnection(ConnectionString);
+            await connection.ExecuteAsync(query, tiposCuentas);
         }
     }
 }

@@ -128,6 +128,19 @@ namespace Presupuestos.Controllers
         [HttpPost]
         public async Task<IActionResult> OrdenarTabla([FromBody] int[] ids)
         {
+            var usuarioId = usuariosService.GetUsuarioId();
+            var tiposCuentas = await repositorioTiposCuentas.GetTiposCuenta(usuarioId);
+            var idsTiposCuentas = tiposCuentas.Select(x => x.Id).ToList();
+            var idsNoPermitidos = ids.Except(idsTiposCuentas).ToList();
+
+            if(idsNoPermitidos.Count > 0)
+            {
+                return Forbid();
+            }
+
+            var idsOrdenados = ids.Select((valor, indice) => new TipoCuenta { Id = valor, Orden = indice + 1 }).AsEnumerable();
+            await repositorioTiposCuentas.Ordenar(idsOrdenados);
+
             return Ok();
         }
     }
