@@ -1,0 +1,66 @@
+﻿@model TransaccionEditViewModel
+
+@{
+    ViewData["Title"] = "Transacciones - Edit";
+}
+
+<h1>Editar Transacción</h1>
+
+<h5>Una Transacción te permite especificar tus ingresos y gastos..</h5>
+
+<div>
+
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="CantidadAnterior" />
+        <input type="hidden" asp-for="CuentaAnteriorId" />
+        <div class="form-group mb-3">
+            <label asp-for="FechaTransaccion" class="control-label"></label>
+            <input asp-for="FechaTransaccion" class="form-control" />
+            <span asp-validation-for="FechaTransaccion" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="Cantidad" class="control-label"></label>
+            <input asp-for="Cantidad" class="form-control" />
+            <span asp-validation-for="Cantidad" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="CategoriaId" class="control-label"></label>
+            <select asp-for="CategoriaId" asp-items="Model.Categorias" class="form-select"></select>
+            <span asp-validation-for="CategoriaId" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="CuentaId" class="control-label"></label>
+            <select asp-for="CuentaId" asp-items="Model.Cuentas" class="form-select"></select>
+            <span asp-validation-for="CuentaId" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="TipoOperacionId" class="control-label"></label>
+            <select asp-for="TipoOperacionId" asp-items="Html.GetEnumSelectList<TipoOperacion>()" class="form-select"></select>
+            <span asp-validation-for="TipoOperacionId" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="Nota" class="control-label"></label>
+            <textarea asp-for="Nota" class="form-control"></textarea>
+            <span asp-validation-for="Nota" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary">Actualizar</button>
+            <button class="btn btn-danger" asp-action="Delete">Borrar</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+        </div>
+
+    </form>
+
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        const url = '@Url.Action("GetCategorias")';
+        $(function () {
+            InicializarFormTransacciones(url);
+        });
+    </script>
+}
